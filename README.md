@@ -10,6 +10,7 @@ Three Key differences in weather between June and December
 
 https://github.com/roymammen/Module9Challenge/blob/main/Resources/JuneTempOhau.png
 https://github.com/roymammen/Module9Challenge/blob/main/Resources/DecTempOhau.png
+
 Please refer to 2 image links for June and December temperatures data statistical analysis.
 1.	Difference in mean temperature between June and December month are 74.94 and 71.04 degree F respectively. 
 2.	Difference in standard deviation between the two months June and December is 3.25 and 3.74 deg F. 
